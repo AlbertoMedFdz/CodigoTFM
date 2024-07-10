@@ -40,3 +40,7 @@ En este repositorio está el código desarrollado para mi TFM. Hay dos carpetas,
 - RF SMOTE.ipynb --> Notebook de Python que contiene los resultados de los modelos combinados con RF en el Experimento 2.
 
 - AB SMOTE.ipynb --> Notebook de Python que contiene los resultados de los modelos combinados con AB en el Experimento 2.
+
+
+
+La base de datos se puede descargar en el siguiente enlace: https://zenodo.org/records/6463389
